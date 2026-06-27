@@ -242,9 +242,3 @@ print(solusi["similarity_max"])     # 0.8934
 | Fany Fauzah | 202310370311066 |
 
 ---
-
-## 📄 Lisensi
-
-Proyek ini dibuat untuk keperluan akademik Mata Kuliah Penalaran Komputer,  
-Fakultas Teknik Informatika, Universitas Muhammadiyah Malang.  
-Tahun Akademik 2025/2026.
