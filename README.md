@@ -231,7 +231,7 @@ print(solusi["similarity_max"])     # 0.8934
 | **URL** | https://putusan3.mahkamahagung.go.id |
 | **Kategori** | Pidana Khusus → Korupsi Kerugian Keuangan Negara |
 | **Format** | PDF |
-| **Jumlah Dokumen** | ≥ 30 putusan |
+| **Jumlah Dokumen** | ≥ 32 putusan |
 
 ---
 
