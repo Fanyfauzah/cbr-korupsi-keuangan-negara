@@ -1,2 +1,34 @@
 2026-06-25 11:35:46,285 | INFO | Total URL dikumpulkan: 0
 2026-06-25 11:35:46,286 | INFO | Pipeline selesai | Berhasil: 0 | Gagal: 0 | Invalid: 0
+2026-06-27 22:45:32,437 | WARNING | case_001_pdf: hanya 89 kata
+2026-06-27 22:45:49,893 | INFO | case_002_pdf: OK — 107025 kata
+2026-06-27 22:45:50,753 | INFO | case_003_pdf: OK — 5150 kata
+2026-06-27 22:45:50,808 | WARNING | case_004_pdf: hanya 89 kata
+2026-06-27 22:45:59,509 | INFO | case_005_pdf: OK — 53179 kata
+2026-06-27 22:46:04,700 | INFO | case_006_pdf: OK — 31722 kata
+2026-06-27 22:46:14,470 | INFO | case_007_pdf: OK — 60605 kata
+2026-06-27 22:46:15,374 | INFO | case_008_pdf: OK — 5150 kata
+2026-06-27 22:46:15,744 | INFO | case_009_pdf: OK — 1780 kata
+2026-06-27 22:46:21,688 | INFO | case_010_pdf: OK — 39172 kata
+2026-06-27 22:46:30,427 | INFO | case_011_pdf: OK — 53179 kata
+2026-06-27 22:46:31,898 | INFO | case_012_pdf: OK — 8594 kata
+2026-06-27 22:46:38,334 | INFO | case_013_pdf: OK — 39437 kata
+2026-06-27 22:46:43,680 | INFO | case_014_pdf: OK — 31092 kata
+2026-06-27 22:46:47,252 | INFO | case_015_pdf: OK — 20559 kata
+2026-06-27 22:46:48,475 | INFO | case_016_pdf: OK — 7899 kata
+2026-06-27 22:46:50,294 | INFO | case_017_pdf: OK — 9881 kata
+2026-06-27 22:46:52,139 | INFO | case_018_pdf: OK — 9881 kata
+2026-06-27 22:47:00,469 | INFO | case_019_pdf: OK — 50065 kata
+2026-06-27 22:47:08,235 | INFO | case_020_pdf: OK — 49693 kata
+2026-06-27 22:47:09,475 | INFO | case_021_pdf: OK — 6547 kata
+2026-06-27 22:47:27,126 | INFO | case_022_pdf: OK — 109449 kata
+2026-06-27 22:47:27,750 | INFO | case_023_pdf: OK — 3792 kata
+2026-06-27 22:47:30,095 | INFO | case_024_pdf: OK — 13051 kata
+2026-06-27 22:47:33,572 | INFO | case_025_pdf: OK — 18267 kata
+2026-06-27 22:47:39,182 | INFO | case_026_pdf: OK — 31064 kata
+2026-06-27 22:47:43,210 | INFO | case_027_pdf: OK — 21658 kata
+2026-06-27 22:47:48,830 | INFO | case_028_pdf: OK — 31722 kata
+2026-06-27 22:47:48,886 | WARNING | case_029_pdf: hanya 89 kata
+2026-06-27 22:47:52,169 | INFO | case_030_pdf: OK — 18581 kata
+2026-06-27 22:47:53,521 | INFO | case_031_pdf: OK — 8013 kata
+2026-06-27 22:47:54,727 | INFO | case_032_pdf: OK — 6591 kata
