@@ -23,7 +23,7 @@
 Proyek ini mengimplementasikan sistem **Case-Based Reasoning (CBR)** berbasis Python
 untuk mendukung analisis putusan pengadilan domain **Pidana Khusus — Korupsi Kerugian Keuangan Negara**.
 
-Data bersumber dari [Direktori Putusan MA RI](https://putusan3.mahkamahagung.go.id) (≥ 30 dokumen PDF).
+Data bersumber dari [Direktori Putusan MA RI](https://putusan3.mahkamahagung.go.id) (≥ 32 dokumen PDF).
 
 ---
 
@@ -156,7 +156,7 @@ print(solusi["predicted_pidana"])  # '4 tahun'
 | **Platform** | Direktori Putusan Mahkamah Agung RI |
 | **URL** | https://putusan3.mahkamahagung.go.id |
 | **Kategori** | Pidana Khusus → Korupsi Kerugian Keuangan Negara |
-| **Jumlah** | ≥ 30 putusan PDF |
+| **Jumlah** | ≥ 32 putusan PDF |
 
 ---
 
