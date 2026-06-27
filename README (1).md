@@ -167,5 +167,3 @@ print(solusi["predicted_pidana"])  # '4 tahun'
 | Fany Fauzah | 202310370311066 |
 
 ---
-
-*Proyek Akademik — Penalaran Komputer, Informatika UMM, 2025/2026*
